@@ -1,0 +1,43 @@
+com/app/hnbpro/ui/dashboard/DashboardViewModel.java
+ com.app.hnbpro.ui.dashboard.DashboardViewModel
+com/app/hnbpro/ui/dashboard/DashboardFragment.java
+ com.app.hnbpro.ui.dashboard.DashboardFragment
+ com.app.hnbpro.ui.dashboard.DashboardFragment$1
+com/app/hnbpro/Video_Player.java
+ com.app.hnbpro.Video_Player
+com/app/hnbpro/ui/notifications/NotificationsFragment.java
+ com.app.hnbpro.ui.notifications.NotificationsFragment
+ com.app.hnbpro.ui.notifications.NotificationsFragment$1
+com/app/hnbpro/FormCadastro.java
+ com.app.hnbpro.FormCadastro
+ com.app.hnbpro.FormCadastro$1
+ com.app.hnbpro.FormCadastro$2
+ com.app.hnbpro.FormCadastro$3
+com/app/hnbpro/ui/home/HomeViewModel.java
+ com.app.hnbpro.ui.home.HomeViewModel
+com/app/hnbpro/BuildConfig.java
+ com.app.hnbpro.BuildConfig
+com/app/hnbpro/Videos/video1.java
+ com.app.hnbpro.Videos.video1
+com/app/hnbpro/ui/home/HomeFragment.java
+ com.app.hnbpro.ui.home.HomeFragment
+ com.app.hnbpro.ui.home.HomeFragment$1
+com/app/hnbpro/SettingsActivity.java
+ com.app.hnbpro.SettingsActivity
+ com.app.hnbpro.SettingsActivity$1
+com/app/hnbpro/ui/notifications/NotificationsViewModel.java
+ com.app.hnbpro.ui.notifications.NotificationsViewModel
+com/app/hnbpro/FormLogin.java
+ com.app.hnbpro.FormLogin
+ com.app.hnbpro.FormLogin$1
+ com.app.hnbpro.FormLogin$2
+ com.app.hnbpro.FormLogin$3
+com/app/hnbpro/MainActivity.java
+ com.app.hnbpro.MainActivity
+ com.app.hnbpro.MainActivity$1
+com/app/hnbpro/Teste.java
+ com.app.hnbpro.Teste
+ com.app.hnbpro.Teste$1
+com/app/hnbpro/Teste2.java
+ com.app.hnbpro.Teste2
+ com.app.hnbpro.Teste2$1
